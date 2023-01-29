@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Explora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@500&display=swap");
+
+#text1 {
+  font-family: Explora;
+  font-weight: 900;
+}
+
+#text2 {
+}
+
+#text3 {
+  font-family: arimo;
+}

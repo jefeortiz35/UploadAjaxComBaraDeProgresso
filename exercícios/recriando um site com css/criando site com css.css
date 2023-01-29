@@ -1,0 +1,32 @@
+body {
+  background-color: #2c3e50;
+}
+
+#dias-da-semana {
+  color: yellow;
+}
+#segunda {
+  background-color: yellow;
+  border: 2px solid;
+}
+#terça {
+  background-color: yellow;
+  border: 2px solid;
+}
+#quarta {
+  background-color: yellow;
+  border: 2px solid;
+}
+#astronomy-class {
+  color: red;
+}
+li {
+  color: white;
+}
+
+h1 {
+  text-decoration: underline;
+}
+body {
+  border: 10px solid black;
+}

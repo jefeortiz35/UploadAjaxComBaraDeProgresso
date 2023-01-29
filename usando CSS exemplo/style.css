@@ -1,0 +1,26 @@
+h1 {
+  border-color: yellow;
+  border-width: 2px;
+  border-style: dashed;
+}
+body {
+  background-image: url("https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/02/spacex-1280x720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cor {
+  color: aquamarine;
+}
+
+.big-text {
+  font-size: 40px;
+}
+
+#europa-text {
+  font-size: 25px;
+}
+
+#bbbb {
+  color: rgb(126, 7, 7);
+}
